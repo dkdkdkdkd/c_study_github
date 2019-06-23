@@ -4,5 +4,5 @@ int main()
 {
         printf("helloworld");
 		printf("hello");
-		printf("klkjlg");
+		¤©¸¶·¯´ë¤Á·¯¤À¤§Àð¤Ã·ªÀú·¡
 }
